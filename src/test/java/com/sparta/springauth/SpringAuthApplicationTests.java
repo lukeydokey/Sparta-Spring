@@ -1,13 +1,13 @@
-package com.sparta.springprepare;
+package com.sparta.springauth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringPrepareApplicationTests {
+class SpringAuthApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
