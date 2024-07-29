@@ -5,3 +5,5 @@
 - [입문-메모장](https://github.com/lukeydokey/Sparta-Spring/tree/Intro-memo)
 # Spring 숙련주차 강의
 - [숙련 1주차](https://github.com/lukeydokey/Sparta-Spring/tree/intermediate-auth)
+- [숙련 2주차 RestTemplate Client](https://github.com/lukeydokey/Sparta-Spring/tree/IM-restTemplateClient)
+- [숙련 2주차 RestTemplate Server](https://github.com/lukeydokey/Sparta-Spring/tree/IM-restTemplateServer)
