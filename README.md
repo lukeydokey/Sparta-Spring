@@ -7,3 +7,5 @@
 - [숙련 1주차](https://github.com/lukeydokey/Sparta-Spring/tree/intermediate-auth)
 - [숙련 2주차 RestTemplate Client](https://github.com/lukeydokey/Sparta-Spring/tree/IM-restTemplateClient)
 - [숙련 2주차 RestTemplate Server](https://github.com/lukeydokey/Sparta-Spring/tree/IM-restTemplateServer)
+- [숙련 2주차 JPA Entity](https://github.com/lukeydokey/Sparta-Spring/tree/IM-jpa-advance)
+- [숙련 2주차 실습 프로젝트 My Select Shop](https://github.com/lukeydokey/Sparta-Spring/tree/IM-myselectshop)
