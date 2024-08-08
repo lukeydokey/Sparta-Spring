@@ -32,7 +32,7 @@ on:
 
 env:
   AWS_REGION: ap-northeast-2                   # set this to your preferred AWS region, e.g. us-west-1
-  ECR_REPOSITORY: 637423511559.dkr.ecr.ap-northeast-2.amazonaws.com/sparta-cicd-test-lucas           # set this to your Amazon ECR repository name
+  ECR_REPOSITORY: sparta-cicd-test-lucas           # set this to your Amazon ECR repository name
   ECS_CLUSTER: sparta-ecs-lucas                 # set this to your Amazon ECS cluster name
   ECS_SERVICE_NAME: sparta-ecs-service-lucas
   ECS_TASK_DEFINITION: task-definition.json # set this to the path to your Amazon ECS task definition
