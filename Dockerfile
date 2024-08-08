@@ -20,6 +20,9 @@ RUN /bin/bash ./gradlew bootJar
 
 FROM openjdk:17-alpine
 
+ARG DBPW
+ARG NAVERSECRET
+
 COPY --from=builder /app/build/libs/*.jar mySelectShop.jar
 
-ENTRYPOINT ["java", "-jar", "/mySelectShop.jar"]
+ENTRYPOINT ["java", "-jar", "-Dspring.datasource.password=", "$DBPW" ,"-Dnaver.client.secret=", "$NAVERSECRET" ,"/mySelectShop.jar"]
